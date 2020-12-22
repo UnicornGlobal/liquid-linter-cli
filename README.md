@@ -1,6 +1,6 @@
 # Liquid Linter CLI
 
-![Project Stage][project-stage-shield]
+[![Project Stage][project-stage-shield]][project-stages]
 ![Maintenance][maintenance-shield]
 ![Awesome][awesome-shield]
 [![License][license-shield]](LICENSE.md)
@@ -167,7 +167,8 @@ For a full list off all author and/or contributors, check [the contributors page
 [NPM]: https://www.npmjs.com/
 [pipelines]: https://en.wikipedia.org/wiki/Pipeline_(Unix)
 [potherca]: https://pother.ca/
-[project-stage-shield]: https://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/Project%20Stage-Production%20Ready-brightgreen.svg
+[project-stages]: https://blog.pother.ca/project-stages/
 [the Noun Project]: https://thenounproject.com/
 [version-shield]: https://img.shields.io/npm/v/liquid-linter-cli.svg
 [version]: https://www.npmjs.com/package/liquid-linter-cli
