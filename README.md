@@ -129,6 +129,7 @@ For a full list off all author and/or contributors, check [the contributors page
 >
 > Copyright (c) 2017 Dealerdirect B.V. <br>
 > Copyright (c) 2019 Potherca
+> Copyright (c) 2020 Unicorn Global
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -170,5 +171,3 @@ For a full list off all author and/or contributors, check [the contributors page
 [version-shield]: https://img.shields.io/npm/v/liquid-linter-cli.svg
 [version]: https://www.npmjs.com/package/liquid-linter-cli
 [Yarn]: https://yarnpkg.com/
-
-
