@@ -129,7 +129,7 @@ For a full list off all author and/or contributors, check [the contributors page
 > The MIT License (MIT)
 >
 > Copyright (c) 2017 Dealerdirect B.V. <br>
-> Copyright (c) 2019 Potherca
+> Copyright (c) 2019 Potherca <br>
 > Copyright (c) 2020 Unicorn Global
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
