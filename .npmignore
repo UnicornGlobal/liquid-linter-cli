@@ -4,3 +4,4 @@
 .gitignore
 _config.yml
 CONTRIBUTING.md
+.snyk
