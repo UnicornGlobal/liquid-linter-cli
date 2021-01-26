@@ -1,6 +1,6 @@
 # Liquid Linter CLI
 
-![Project Stage][project-stage-shield]
+[![Project Stage][project-stage-shield]][project-stages]
 ![Maintenance][maintenance-shield]
 ![Awesome][awesome-shield]
 [![License][license-shield]](LICENSE.md)
@@ -115,6 +115,7 @@ Thank you for being involved! :heart_eyes:
 ## Authors & contributors
 
 The original idea and setup of this repository is by [Potherca][potherca].
+In 2020 active development was taken over by [Unicorn Global](https://unicorn.global/). 
 
 For a full list off all author and/or contributors, check [the contributors page][contributors].
 
@@ -128,7 +129,8 @@ For a full list off all author and/or contributors, check [the contributors page
 > The MIT License (MIT)
 >
 > Copyright (c) 2017 Dealerdirect B.V. <br>
-> Copyright (c) 2019 Potherca
+> Copyright (c) 2019 Potherca <br>
+> Copyright (c) 2020 Unicorn Global
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
@@ -151,24 +153,23 @@ For a full list off all author and/or contributors, check [the contributors page
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [Cassie McKown]: https://thenounproject.com/mckowncr/
 [contribution-guidelines]: CONTRIBUTING.md
-[contributors]: https://github.com/potherca/liquid-linter-cli/graphs/contributors
+[contributors]: https://github.com/UnicornGlobal/liquid-linter-cli/graphs/contributors
 [dependency-status]: https://img.shields.io/librariesio/release/npm/liquid-linter-cli.svg
 [gnu-find]: https://www.gnu.org/software/findutils/manual/html_mono/find.html#Top
 [gnu-xargs]: https://www.gnu.org/software/findutils/manual/html_mono/find.html#Invoking-xargs
 [includes]: https://help.shopify.com/themes/liquid/tags/theme-tags#include
 [librariesio]: https://libraries.io/npm/liquid-linter-cli
-[license-shield]: https://img.shields.io/github/license/potherca/liquid-linter-cli.svg
+[license-shield]: https://img.shields.io/github/license/UnicornGlobal/liquid-linter-cli.svg
 [liquid-lint repository]: https://github.com/tomheller/liquid-linter/issues
 [liquid-linter]: https://www.npmjs.com/package/liquid-linter
 [liquid-tags]: https://help.shopify.com/themes/liquid/tags
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2019.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [NPM]: https://www.npmjs.com/
 [pipelines]: https://en.wikipedia.org/wiki/Pipeline_(Unix)
 [potherca]: https://pother.ca/
-[project-stage-shield]: https://img.shields.io/badge/Project%20Stage-Development-yellowgreen.svg
+[project-stage-shield]: https://img.shields.io/badge/Project%20Stage-Production%20Ready-brightgreen.svg
+[project-stages]: https://blog.pother.ca/project-stages/
 [the Noun Project]: https://thenounproject.com/
 [version-shield]: https://img.shields.io/npm/v/liquid-linter-cli.svg
 [version]: https://www.npmjs.com/package/liquid-linter-cli
 [Yarn]: https://yarnpkg.com/
-
-
